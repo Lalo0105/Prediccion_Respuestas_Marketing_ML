@@ -1,4 +1,5 @@
 # *Prediccion de Respuesta a Ofertas de Marketing*
+<img width="800" height="300" alt="Predicción de (1)" src="https://github.com/user-attachments/assets/583f1a16-a3e1-4e02-9193-ea832eec1d38" />
 
 
 ## *Autoras*
