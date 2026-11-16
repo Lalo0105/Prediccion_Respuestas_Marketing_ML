@@ -31,7 +31,7 @@ Se utilizaron para estimar el gasto total de cada cliente, a partir de sus carac
 * Support Vector Regression
 
 ## *Enlaces*
-* Video:
+* Video: https://youtu.be/Y_oiCSEjgWE
 * Notebook: https://drive.google.com/file/d/1u4caM6ZGdPm_Jr2f1XzSo_cM7kq6d0lf/view?usp=sharing
 * Dataset: https://raw.githubusercontent.com/Lalo0105/Marketing-Campaign/refs/heads/main/marketing_campaign.csv
 * Presentación: https://canva.link/mjaaat5w3r30k3y
